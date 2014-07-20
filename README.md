@@ -18,8 +18,9 @@ https://itunes.apple.com/us/app/citizen-request-tracker/id355918295?mt=8
 
 NOTE
 ===
-All mobile and facebook app traffic is actually aggregated and categorized by the norfolk cares department. The apps do not have the mechanic to do that, on the website you can fill out by form so it DOES support categories.
+* All mobile and facebook app traffic is actually aggregated and categorized by the norfolk cares department. The apps do not have the mechanic to do that, on the website you can fill out by form so it DOES support categories.
 
+* 0 usually imply the service may have been deprecated and requests through that service that are immediately requested are closed because service not offered. 
 
 Opportunities
 ---
