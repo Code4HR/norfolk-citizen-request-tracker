@@ -1,11 +1,13 @@
-Norfolk-Citizen-Request-Tracker 
+Norfolk-Citizen-Request-Tracker
 =====
 Norfolk Citizen Request Tracker is an application for citizens to submit and track requests for city services. This uses the city's Civic Plus platform that can be access by web, iOS or by their facebook apps.
 
-A list of all the services avaliable can be found here http://www.norfolk.gov/requesttracker.aspx 
+Data summary from 7/1/2013 - 6/30/2014
+
+A list of all the services avaliable can be found here http://www.norfolk.gov/requesttracker.aspx
 
 ```
-Citizen Request Track iOS app description 
+Citizen Request Track iOS app description
 The free, simple and easy to use Citizen Request Tracker™ app gives small to medium-sized cities and counties across
 North America – and their residents and business owners - the same citizen-power to report civic issues, and the
 integrated municipal tracking capabilities, that was previously available only in large metropolitan areas.
@@ -27,8 +29,7 @@ This type of information is not avaliable yet or can maybe be seen in the civic 
 
 Common use cases
 ---
-* report missed trash pickup or furniture 
+* report missed trash pickup or furniture
 * report tall grass
-* make FOIA requests (not too common) 
+* make FOIA requests (not too common)
 * ask about city services
-
