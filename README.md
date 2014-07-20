@@ -94,8 +94,9 @@ Sidewalk Repair
 Storm Water Service Request
 Traffic Sign Service Request
 Traffic Signal Service Request
-Total:
+
 Water and Wastewater Services
+---
 Grease Control Device (GCD) Registration Form
 Inquire About a Bill
 Report a High Bill
