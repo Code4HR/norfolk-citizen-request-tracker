@@ -22,6 +22,11 @@ NOTE
 
 * 0 usually imply the service may have been deprecated and requests through that service that are immediately requested are closed because service not offered. 
 
+* Avg_Time_to_Close_Request is in hours 
+
+* According to David, "  Time to close is measured in hours using a 24 hour clock.  We typically translate that into work days by dividing by 24 and then multiplying by 0.68 to remove weekends and holidays.  ex: the average time to complete for all requests in FY14 was 385.159 hours which is 10.9 work days."
+
+
 Opportunities
 ---
 These are summaries of public information about norfolk-citizen-tracker numbers. Each of the these reports can have the reporters contact information, report, optional:address of service requested, optional: picture attached.
